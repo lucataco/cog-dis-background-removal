@@ -19,3 +19,11 @@ To run a prediction:
 | Input | Output | Mask |
 |-------|--------|------|
 | ![Input](cologne.png) | ![Output](output.0.png) | ![Mask](output.1.png) |
+
+## License
+
+The code in this repository is licensed under the [Apache License 2.0](LICENSE).
+
+`models/` and `data_loader_cache.py` come from [xuebinqin/DIS](https://github.com/xuebinqin/DIS), which is Apache 2.0.
+
+The model weights are not covered by this license. [xuebinqin/DIS](https://github.com/xuebinqin/DIS) is released under the [Apache 2.0](https://github.com/xuebinqin/DIS/blob/main/LICENSE.md) license.
